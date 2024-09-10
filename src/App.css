@@ -1,0 +1,10 @@
+/* Custom App.css for some fine-tuning */
+.tab-container {
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+}
+
+.indicator {
+  box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.12), 0px 3px 1px rgba(0, 0, 0, 0.04);
+}
